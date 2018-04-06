@@ -1,0 +1,1637 @@
+﻿Log file open, 04/06/18 18:09:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UE4_Tetris_Start_Model
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(488650587) SRandInit(488650587).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177200
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.791s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am labsoft11 (143.107.102.11:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.06-21.09.11:455][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.06-21.09.11:455][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.06-21.09.11:461][  0]LogInit: Computer: LABSOFT11
+[2018.04.06-21.09.11:462][  0]LogInit: User: adm3
+[2018.04.06-21.09.11:462][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.06-21.09.11:462][  0]LogInit: High frequency timer resolution =3.421876 MHz
+[2018.04.06-21.09.11:462][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.06-21.09.11:462][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.06-21.09.11:462][  0]LogMemory: Process Physical Memory: 276.02 MB used, 276.02 MB peak
+[2018.04.06-21.09.11:462][  0]LogMemory: Process Virtual Memory: 270.05 MB used, 270.05 MB peak
+[2018.04.06-21.09.11:462][  0]LogMemory: Physical Memory: 4459.93 MB used,  3650.99 MB free, 8110.92 MB total
+[2018.04.06-21.09.11:462][  0]LogMemory: Virtual Memory: 687.95 MB used,  3650.99 MB free, 134217728.00 MB total
+[2018.04.06-21.09.11:472][  0]LogInit: Using OS detected language (en-US).
+[2018.04.06-21.09.11:472][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.04.06-21.09.11:473][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.06-21.09.11:851][  0]LogStreaming: Display: Took  0.379s to EndInitTextLocalization.
+[2018.04.06-21.09.11:851][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.06-21.09.11:877][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.06-21.09.11:877][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.06-21.09.12:018][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.06-21.09.12:029][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.06-21.09.12:029][  0]LogD3D11RHI:       128/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.04.06-21.09.12:031][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.06-21.09.12:031][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.06-21.09.12:031][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.06-21.09.12:036][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.06-21.09.12:036][  0]LogD3D11RHI:     GPU DeviceId: 0x5912 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.06-21.09.12:036][  0]LogWindows: EnumDisplayDevices:
+[2018.04.06-21.09.12:036][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.06-21.09.12:036][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.06-21.09.12:036][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.06-21.09.12:036][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.06-21.09.12:036][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 630
+[2018.04.06-21.09.12:036][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.06-21.09.12:036][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.06-21.09.12:036][  0]LogRHI: Texture pool is 1509 MB (70% of 2155 MB)
+[2018.04.06-21.09.12:044][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.06-21.09.12:049][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.04.06-21.09.12:050][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Ricardo Ken/Treino-Interlab2/Intermediate/Shaders/WorkingDirectory/7704/).
+[2018.04.06-21.09.12:050][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adm3/AppData/Local/Temp/UnrealShaderWorkingDir/51ED8A674042F3284E2CCD9DB185656B/'.
+[2018.04.06-21.09.12:225][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.06-21.09.12:238][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.06-21.09.12:249][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.06-21.09.12:260][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.06-21.09.12:273][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.06-21.09.12:284][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.06-21.09.12:296][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.06-21.09.12:307][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.06-21.09.12:313][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.06-21.09.12:323][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.06-21.09.12:333][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.06-21.09.12:343][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.06-21.09.12:353][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.06-21.09.12:363][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.06-21.09.12:373][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.06-21.09.12:393][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.06-21.09.12:393][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.06-21.09.12:404][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.06-21.09.12:405][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.06-21.09.12:440][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.06-21.09.12:450][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.06-21.09.12:460][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.06-21.09.12:471][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.06-21.09.12:482][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.06-21.09.12:492][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.06-21.09.12:492][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.06-21.09.12:583][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.06-21.09.12:583][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.06-21.09.12:583][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.06-21.09.13:180][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.06-21.09.13:260][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/adm3/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.06-21.09.13:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adm3/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.06-21.09.13:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Ricardo Ken/Treino-Interlab2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.06-21.09.13:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.06-21.09.13:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Ricardo Ken/Treino-Interlab2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.06-21.09.13:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.06-21.09.13:275][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.06-21.09.13:288][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adm3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.06-21.09.13:297][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.06-21.09.13:297][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.06-21.09.13:298][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.06-21.09.13:298][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.06-21.09.13:398][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.04.06-21.09.13:700][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.06-21.09.13:869][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.06-21.09.13:872][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.06-21.09.13:872][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.06-21.09.13:872][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.06-21.09.13:872][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.06-21.09.13:872][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.06-21.09.13:913][  0]LogNetVersion: UE4_Tetris_Start_Model , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1378322121)
+[2018.04.06-21.09.14:328][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.055908 seconds
+[2018.04.06-21.09.14:335][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.06-21.09.14:335][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.06-21.09.14:335][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.06-21.09.15:404][  0]LogWmfMedia: Failed to load mf.dll
+[2018.04.06-21.09.15:404][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2018.04.06-21.09.15:419][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2018.04.06-21.09.15:419][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2018.04.06-21.09.15:419][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2018.04.06-21.09.15:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.06-21.09.15:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.06-21.09.16:123][  0]SourceControl: Source control is disabled
+[2018.04.06-21.09.16:123][  0]SourceControl: Source control is disabled
+[2018.04.06-21.09.16:136][  0]SourceControl: Source control is disabled
+[2018.04.06-21.09.16:149][  0]SourceControl: Source control is disabled
+[2018.04.06-21.09.16:531][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.06-21.09.16:640][  0]LogOcInput: OculusInput pre-init called
+[2018.04.06-21.09.16:730][  0]LogEngine: Initializing Engine...
+[2018.04.06-21.09.16:731][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.06-21.09.16:732][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.06-21.09.16:732][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.06-21.09.16:959][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.06-21.09.16:988][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-21.09.17:030][  0]LogInit: FAudioDevice initialized.
+[2018.04.06-21.09.17:115][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/adm3/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.06-21.09.17:131][  0]LogInit: Texture streaming: Enabled
+[2018.04.06-21.09.17:146][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.06-21.09.17:157][  0]LogInit: Transaction tracking system initialized
+[2018.04.06-21.09.17:176][  0]BlueprintLog: New page: Editor Load
+[2018.04.06-21.09.17:247][  0]LocalizationService: Localization service is disabled
+[2018.04.06-21.09.17:338][  0]LogConsoleResponse: Display: 
+[2018.04.06-21.09.17:481][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.06-21.09.17:481][  0]LogFileCache: Scanning file cache for directory 'C:/Ricardo Ken/Treino-Interlab2/Content/' took 0.01s
+[2018.04.06-21.09.17:481][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.06-21.09.17:482][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.06-21.09.17:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.06-21.09.17:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.06-21.09.17:774][  0]SourceControl: Source control is disabled
+[2018.04.06-21.09.17:774][  0]Cmd: MAP LOAD FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Tetris.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.06-21.09.17:775][  0]LightingResults: New page: Lighting Build
+[2018.04.06-21.09.17:778][  0]MapCheck: New page: Map Check
+[2018.04.06-21.09.17:778][  0]LightingResults: New page: Lighting Build
+[2018.04.06-21.09.17:893][  0]LogLinker: Warning: Can't find file '/Game/Tetris_BuiltData'
+[2018.04.06-21.09.17:893][  0]LogLinker: Warning: Can't find file for asset '/Game/Tetris_BuiltData' while loading ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Tetris.umap.
+[2018.04.06-21.09.17:893][  0]LoadErrors: Error: /Game/Tetris : Can't find file for asset. /Game/Tetris_BuiltData
+[2018.04.06-21.09.17:896][  0]LogLinker: Warning: Can't find file '/Game/Tetris_BuiltData'
+[2018.04.06-21.09.17:896][  0]LogLinker: Warning: Can't find file for asset '/Game/Tetris_BuiltData' while loading ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Tetris.umap.
+[2018.04.06-21.09.17:896][  0]LoadErrors: Error: /Game/Tetris : Can't find file for asset. /Game/Tetris_BuiltData
+[2018.04.06-21.09.17:897][  0]LogLinker: Warning: Can't find file '/Game/Tetris_BuiltData'
+[2018.04.06-21.09.17:897][  0]LogLinker: Warning: Can't find file for asset '/Game/Tetris_BuiltData' while loading NULL.
+[2018.04.06-21.09.17:897][  0]LogLinker: Warning: Can't find file '/Game/Tetris_BuiltData'
+[2018.04.06-21.09.17:897][  0]LogLinker: Warning: Can't find file for asset '/Game/Tetris_BuiltData' while loading NULL.
+[2018.04.06-21.09.17:909][  0]LogLinker: Warning: Can't find file '/Game/Tetris_BuiltData'
+[2018.04.06-21.09.17:909][  0]LoadErrors: Failed to load /Game/Tetris_BuiltData.Tetris_BuiltData Referenced by PersistentLevel
+[2018.04.06-21.09.17:909][  0]LogLinker: Warning: Can't find file for asset '/Game/Tetris_BuiltData' while loading NULL.
+[2018.04.06-21.09.17:909][  0]LoadErrors: Failed to load /Game/Tetris_BuiltData.Tetris_BuiltData Referenced by PersistentLevel
+[2018.04.06-21.09.17:953][  0]LogMaterial: Missing cached shader map for material MaterialOrange, compiling. 
+[2018.04.06-21.09.17:979][  0]LogMaterial: Missing cached shader map for material MaterialGreen, compiling. 
+[2018.04.06-21.09.17:987][  0]LogMaterial: Missing cached shader map for material MaterialDarkGreen, compiling. 
+[2018.04.06-21.09.17:996][  0]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.06-21.09.17:996][  0]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.06-21.09.17:996][  0]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.06-21.09.17:996][  0]LogMaterial: Missing cached shader map for material MaterialDarkBlue, compiling. 
+[2018.04.06-21.09.18:006][  0]LogMaterial: Missing cached shader map for material MaterialBlue, compiling. 
+[2018.04.06-21.09.18:034][  0]LogMaterial: Missing cached shader map for material MaterialYellow, compiling. 
+[2018.04.06-21.09.18:043][  0]LogMaterial: Missing cached shader map for material MaterialRed, compiling. 
+[2018.04.06-21.09.18:078][  0]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-21.09.18:084][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.06-21.09.18:098][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.06-21.09.18:134][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35,489ms to complete.
+[2018.04.06-21.09.18:134][  0]LogFileHelpers: Loading map 'Tetris' took 0.359
+[2018.04.06-21.09.18:194][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.06-21.09.18:260][  0]LogCollectionManager: Loaded 0 collections in 0.001412 seconds
+[2018.04.06-21.09.18:302][  0]LogFileCache: Scanning file cache for directory 'C:/Ricardo Ken/Treino-Interlab2/Saved/Collections/' took 0.01s
+[2018.04.06-21.09.18:302][  0]LogFileCache: Scanning file cache for directory 'C:/Ricardo Ken/Treino-Interlab2/Content/Developers/adm3/Collections/' took 0.01s
+[2018.04.06-21.09.18:302][  0]LogFileCache: Scanning file cache for directory 'C:/Ricardo Ken/Treino-Interlab2/Content/Collections/' took 0.01s
+[2018.04.06-21.09.18:302][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.06-21.09.18:311][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2461 classes and 563 folders.
+[2018.04.06-21.09.18:317][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.06-21.09.18:354][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.06-21.09.18:361][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.06-21.09.18:376][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.06-21.09.18:377][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.06-21.09.18:381][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.06-21.09.18:479][  0]LogRenderer: Reallocating scene render targets to support 808x456 Format 10 NumSamples 1 (Frame:1).
+[2018.04.06-21.09.20:038][  0]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.04.06-21.09.20:038][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.06-21.09.20:182][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.04.06-21.09.20:182][  0]LogLoad: (Engine Initialization) Total time: 10.51 seconds
+[2018.04.06-21.09.20:182][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.06-21.09.20:222][  0]LogAssetRegistry: Asset discovery search completed in 6.8460 seconds
+[2018.04.06-21.09.20:223][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.06-21.09.20:223][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.04.06-21.09.20:224][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.06-21.09.20:232][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.09.20:247][  0]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.04.06-21.09.20:247][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.06-21.09.20:550][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Ricardo Ken/Treino-Interlab2/Content/' took 0.36s
+[2018.04.06-21.09.21:283][  3]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.04.06-21.09.23:096][105]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.04.06-21.09.23:561][108]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.04.06-21.09.24:418][110]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.04.06-21.09.24:938][112]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.04.06-21.09.25:401][114]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.04.06-21.09.26:384][115]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.04.06-21.09.26:401][115]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.06-21.09.27:467][117]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.06-21.09.27:738][118]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-21.09.28:629][120]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-21.09.28:631][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.06-21.09.29:479][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.09.35:355][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.09.35:955][340]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-21.09.35:962][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.09.35:963][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-21.09.35:963][340]PIE: New page: PIE session: Tetris (06/04/2018 15:09:35)
+[2018.04.06-21.09.35:963][340]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tetris
+[2018.04.06-21.09.35:966][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002646s)
+[2018.04.06-21.09.35:966][340]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-21.09.35:966][340]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.04.06-21.09.35:966][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tetris.Tetris to /Game/UEDPIE_0_Tetris.Tetris (0.003432s)
+[2018.04.06-21.09.35:980][340]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-21.09.35:994][340]LogInit: FAudioDevice initialized.
+[2018.04.06-21.09.36:033][340]LogLinker: Warning: Can't find file '/Game/Blueprints/TetrisGameMode'
+[2018.04.06-21.09.36:033][340]LogLinker: Warning: Can't find file '/Game/Blueprints/TetrisGameMode'
+[2018.04.06-21.09.36:033][340]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/TetrisGameMode.TetrisGameMode_C'
+[2018.04.06-21.09.36:033][340]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-21.09.36:035][340]LogWorld: Bringing World /Game/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-18.09.36
+[2018.04.06-21.09.36:035][340]LogWorld: Bringing up level for play took: 0.000806
+[2018.04.06-21.09.36:039][340]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.04.06-21.09.36:039][340]PIE: Play in editor start time for /Game/UEDPIE_0_Tetris 0,786
+[2018.04.06-21.09.36:040][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.09.39:618][503]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.39:618][503]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.39:911][517]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.39:912][517]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.41:917][613]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.41:918][613]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.42:168][625]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:01D1
+[2018.04.06-21.09.42:169][625]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.42:293][631]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:016D
+[2018.04.06-21.09.42:294][631]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Down Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.42:418][637]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.42:419][637]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.42:718][651]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:019F
+[2018.04.06-21.09.42:718][651]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Rotate Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.42:760][653]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:01D1
+[2018.04.06-21.09.42:761][653]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.42:884][659]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.42:885][659]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:140][671]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:016D
+[2018.04.06-21.09.43:140][671]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Down Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:262][677]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.43:263][677]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:430][685]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:01D1
+[2018.04.06-21.09.43:431][685]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:526][690]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.43:526][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:639][695]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:01D1
+[2018.04.06-21.09.43:639][695]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:735][700]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:0201
+[2018.04.06-21.09.43:735][700]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:810][703]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:01D1
+[2018.04.06-21.09.43:810][703]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.43:978][711]LogScript: Warning: Accessed None trying to read property currentPiece
+	Tetris_C /Game/UEDPIE_0_Tetris.Tetris:PersistentLevel.Tetris_C_1
+	Function /Game/Tetris.Tetris_C:ExecuteUbergraph_Tetris:019F
+[2018.04.06-21.09.43:978][711]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Rotate Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:232][723]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Down Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:437][733]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:519][737]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Rotate Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:661][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:772][749]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:901][755]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Down Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.44:946][757]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.45:203][769]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Move Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.45:859][800]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Rotate Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.46:562][833]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Rotate Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.46:772][843]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property currentPiece from function: 'ExecuteUbergraph_Tetris' from node: Rotate Piece in graph: EventGraph in object: Tetris with description: Accessed None trying to read property currentPiece
+[2018.04.06-21.09.47:969][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.09.48:028][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.09.51:182][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.10.02:897][243]LogLinker: Warning: Can't find file '/Game/Blueprints/lambert1'
+[2018.04.06-21.10.02:898][243]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/lambert1' while loading ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Blueprints/CubeExp.uasset.
+[2018.04.06-21.10.02:899][243]LoadErrors: Error: /Game/Blueprints/CubeExp : Can't find file for asset. /Game/Blueprints/lambert1
+[2018.04.06-21.10.02:900][243]LogLinker: Warning: Can't find file '/Game/Blueprints/lambert1'
+[2018.04.06-21.10.02:900][243]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/lambert1' while loading ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Blueprints/CubeExp.uasset.
+[2018.04.06-21.10.02:901][243]LogLinker: Warning: Can't find file '/Game/Blueprints/lambert1'
+[2018.04.06-21.10.02:901][243]LoadErrors: Failed to load /Game/Blueprints/lambert1.lambert1 Referenced by CubeExp
+[2018.04.06-21.10.02:901][243]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/lambert1' while loading NULL.
+[2018.04.06-21.10.02:902][243]LogLinker: Warning: Can't find file '/Game/Blueprints/lambert1'
+[2018.04.06-21.10.02:902][243]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/lambert1' while loading NULL.
+[2018.04.06-21.10.02:902][243]LogStaticMesh: Building static mesh CubeExp...
+[2018.04.06-21.10.02:958][243]LogStaticMesh: Built static mesh [0.06s] /Game/Blueprints/CubeExp.CubeExp
+[2018.04.06-21.10.03:019][243]LogActorFactory: Actor Factory created CubeExp
+[2018.04.06-21.10.04:165][283]LogActorFactory: Actor Factory created CubeExp
+[2018.04.06-21.10.04:530][294]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.04.06-21.10.12:772][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeExp)
+[2018.04.06-21.10.15:315][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.10.22:382][814]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-21.10.22:391][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.10.22:392][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-21.10.22:392][814]PIE: New page: PIE session: Tetris (06/04/2018 15:10:22)
+[2018.04.06-21.10.22:392][814]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tetris
+[2018.04.06-21.10.22:399][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007406s)
+[2018.04.06-21.10.22:401][814]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-21.10.22:401][814]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2018.04.06-21.10.22:401][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tetris.Tetris to /Game/UEDPIE_0_Tetris.Tetris (0.009215s)
+[2018.04.06-21.10.22:422][814]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-21.10.22:448][814]LogInit: FAudioDevice initialized.
+[2018.04.06-21.10.22:480][814]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-21.10.22:481][814]LogWorld: Bringing World /Game/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-18.10.22
+[2018.04.06-21.10.22:481][814]LogWorld: Bringing up level for play took: 0.000663
+[2018.04.06-21.10.22:482][814]PIE: Play in editor start time for /Game/UEDPIE_0_Tetris -0,77
+[2018.04.06-21.10.22:482][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.10.24:952][928]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-21.10.24:952][928]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-21.10.33:143][326]LogBlueprintUserMessages: [piece_C_0] Floor
+[2018.04.06-21.10.36:907][509]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-21.10.36:908][509]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-21.10.41:969][752]LogBlueprintUserMessages: [piece_C_1] piece
+[2018.04.06-21.10.41:969][752]LogBlueprintUserMessages: [piece_C_0] piece1
+[2018.04.06-21.10.45:996][946]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.10.45:996][946]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.10.47:999][ 42]LogBlueprintUserMessages: [piece_C_3] piece3
+[2018.04.06-21.10.47:999][ 42]LogBlueprintUserMessages: [piece_C_3] piece3
+[2018.04.06-21.10.50:146][144]LogBlueprintUserMessages: [piece_C_3] piece2
+[2018.04.06-21.10.50:146][144]LogBlueprintUserMessages: [piece_C_2] piece3
+[2018.04.06-21.10.53:063][283]LogBlueprintUserMessages: [piece_C_4] piece4
+[2018.04.06-21.10.53:063][283]LogBlueprintUserMessages: [piece_C_4] piece4
+[2018.04.06-21.10.57:824][507]LogBlueprintUserMessages: [piece_C_4] piece1
+[2018.04.06-21.10.57:824][507]LogBlueprintUserMessages: [piece_C_1] piece4
+[2018.04.06-21.10.58:817][554]LogBlueprintUserMessages: [piece_C_5] piece5
+[2018.04.06-21.10.58:817][554]LogBlueprintUserMessages: [piece_C_5] piece5
+[2018.04.06-21.11.00:008][610]LogBlueprintUserMessages: [piece_C_5] piece3
+[2018.04.06-21.11.00:008][610]LogBlueprintUserMessages: [piece_C_3] piece5
+[2018.04.06-21.11.01:562][683]LogBlueprintUserMessages: [piece_C_6] piece6
+[2018.04.06-21.11.01:562][683]LogBlueprintUserMessages: [piece_C_6] piece6
+[2018.04.06-21.11.02:163][711]LogBlueprintUserMessages: [piece_C_6] piece5
+[2018.04.06-21.11.02:163][711]LogBlueprintUserMessages: [piece_C_5] piece6
+[2018.04.06-21.11.02:289][717]LogBlueprintUserMessages: [piece_C_7] piece6
+[2018.04.06-21.11.02:289][717]LogBlueprintUserMessages: [piece_C_6] piece7
+[2018.04.06-21.11.02:289][717]LogBlueprintUserMessages: [piece_C_7] piece7
+[2018.04.06-21.11.02:289][717]LogBlueprintUserMessages: [piece_C_7] piece7
+[2018.04.06-21.11.03:231][761]LogBlueprintUserMessages: [piece_C_7] piece5
+[2018.04.06-21.11.03:231][761]LogBlueprintUserMessages: [piece_C_5] piece7
+[2018.04.06-21.11.04:084][801]LogBlueprintUserMessages: [piece_C_8] piece6
+[2018.04.06-21.11.04:084][801]LogBlueprintUserMessages: [piece_C_6] piece8
+[2018.04.06-21.11.04:084][801]LogBlueprintUserMessages: [piece_C_8] piece8
+[2018.04.06-21.11.04:084][801]LogBlueprintUserMessages: [piece_C_8] piece8
+[2018.04.06-21.11.04:085][801]LogBlueprintUserMessages: [piece_C_8] piece7
+[2018.04.06-21.11.04:085][801]LogBlueprintUserMessages: [piece_C_7] piece8
+[2018.04.06-21.11.04:752][832]LogBlueprintUserMessages: [piece_C_9] piece6
+[2018.04.06-21.11.04:752][832]LogBlueprintUserMessages: [piece_C_6] piece9
+[2018.04.06-21.11.04:752][832]LogBlueprintUserMessages: [piece_C_9] piece8
+[2018.04.06-21.11.04:752][832]LogBlueprintUserMessages: [piece_C_8] piece9
+[2018.04.06-21.11.04:753][832]LogBlueprintUserMessages: [piece_C_9] piece9
+[2018.04.06-21.11.04:753][832]LogBlueprintUserMessages: [piece_C_9] piece9
+[2018.04.06-21.11.04:753][832]LogBlueprintUserMessages: [piece_C_9] piece7
+[2018.04.06-21.11.04:754][832]LogBlueprintUserMessages: [piece_C_7] piece9
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_10] piece6
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_6] piece10
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_10] piece8
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_8] piece10
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_10] piece9
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_9] piece10
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_10] piece10
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_10] piece10
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_10] piece7
+[2018.04.06-21.11.04:950][841]LogBlueprintUserMessages: [piece_C_7] piece10
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece6
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_6] piece11
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece8
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_8] piece11
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece9
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_9] piece11
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece10
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_10] piece11
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece11
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece11
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_11] piece7
+[2018.04.06-21.11.05:133][849]LogBlueprintUserMessages: [piece_C_7] piece11
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece6
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_6] piece12
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece8
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_8] piece12
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece9
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_9] piece12
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece10
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_10] piece12
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece11
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_11] piece12
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece12
+[2018.04.06-21.11.05:386][860]LogBlueprintUserMessages: [piece_C_12] piece12
+[2018.04.06-21.11.05:387][860]LogBlueprintUserMessages: [piece_C_12] piece7
+[2018.04.06-21.11.05:387][860]LogBlueprintUserMessages: [piece_C_7] piece12
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece6
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_6] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece8
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_8] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece9
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_9] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece12
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_12] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece10
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_10] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece11
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_11] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece13
+[2018.04.06-21.11.05:665][873]LogBlueprintUserMessages: [piece_C_13] piece13
+[2018.04.06-21.11.05:666][873]LogBlueprintUserMessages: [piece_C_13] piece7
+[2018.04.06-21.11.05:666][873]LogBlueprintUserMessages: [piece_C_7] piece13
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece6
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_6] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece8
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_8] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece9
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_9] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece12
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_12] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece10
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_10] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece11
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_11] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece13
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_13] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece14
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_14] piece7
+[2018.04.06-21.11.05:844][881]LogBlueprintUserMessages: [piece_C_7] piece14
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece6
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_6] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece8
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_8] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece9
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_9] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece12
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_12] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece11
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_11] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece10
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_10] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece13
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_13] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece14
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_14] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece15
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_15] piece7
+[2018.04.06-21.11.06:060][890]LogBlueprintUserMessages: [piece_C_7] piece15
+[2018.04.06-21.11.08:085][980]LogBlueprintUserMessages: [piece_C_15] piece3
+[2018.04.06-21.11.08:085][980]LogBlueprintUserMessages: [piece_C_3] piece15
+[2018.04.06-21.11.08:312][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.11.08:352][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-21.11.16:769][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.11.20:059][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.11.20:296][398]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.04.06-21.11.20:861][398]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.06-21.11.20:922][399]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.06-21.11.54:252][675]LogSlate: Window 'Message Log' being destroyed
+[2018.04.06-21.11.54:254][675]LogSlate: Window 'Message Log' being destroyed
+[2018.04.06-21.14.33:835][765]LogSlate: Window 'Tetris* - Level Blueprint Editor' being destroyed
+[2018.04.06-21.14.33:869][765]LogSlate: Window 'Tetris* - Level Blueprint Editor' being destroyed
+[2018.04.06-21.14.35:347][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.14.36:710][806]LogRenderer: Reallocating scene render targets to support 1072x744 Format 10 NumSamples 1 (Frame:1).
+[2018.04.06-21.14.45:251][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.14.45:333][905]LogSlate: Window 'CubeExp' being destroyed
+[2018.04.06-21.14.45:421][905]LogSlate: Window 'CubeExp' being destroyed
+[2018.04.06-21.14.46:285][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.14.46:816][924]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-21.14.46:816][924]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-21.14.58:913][250]LogSlate: Window 'piece' being destroyed
+[2018.04.06-21.14.58:950][250]LogSlate: Window 'piece' being destroyed
+[2018.04.06-21.15.00:887][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.15.02:457][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.15.04:059][390]LogSlate: Window 'Tetris* - Level Blueprint Editor' being destroyed
+[2018.04.06-21.15.04:096][390]LogSlate: Window 'Tetris* - Level Blueprint Editor' being destroyed
+[2018.04.06-21.15.04:807][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.15.05:372][404]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.15.05:372][404]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.19.18:027][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.19.18:881][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.19.40:022][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.20.03:778][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-21.20.44:236][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Tetris_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.06-21.20.44:902][143]LogSavePackage: Save=660.67ms
+[2018.04.06-21.20.44:902][143]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Tetris_Auto158C731E24C79480E802D4DAF07CDFB8D.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Tetris_Auto1.umap'
+[2018.04.06-21.20.44:904][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Tetris_Auto1.umap
+[2018.04.06-21.20.44:912][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tetris' took 0.740
+[2018.04.06-21.20.44:913][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.740
+[2018.04.06-21.33.49:506][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.35.36:176][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-21.40.35:234][576]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.35:234][576]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.46:397][738]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.46:397][738]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.46:603][738]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.46:603][738]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.47:459][752]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.47:459][752]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.47:512][752]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.47:512][752]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.47:688][752]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.47:688][752]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.49:613][780]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.49:613][780]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.49:760][780]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.49:761][780]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.50:521][791]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.50:522][791]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.50:547][791]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.50:547][791]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.50:756][791]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.50:756][791]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.51:246][799]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.51:247][799]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.51:399][799]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.51:399][799]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:045][809]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:045][809]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:077][809]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:077][809]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:251][809]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:251][809]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:878][818]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.52:878][818]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.53:035][818]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.53:035][818]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:006][832]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:006][832]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:047][832]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:047][832]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:233][832]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:233][832]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:590][838]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:590][838]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:730][838]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.54:730][838]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.55:641][852]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.55:641][852]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.55:685][852]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.55:685][852]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.55:859][852]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.55:859][852]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.56:133][856]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.56:133][856]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.56:296][856]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.56:297][856]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.56:994][867]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.56:994][867]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:042][867]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:042][867]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:205][867]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:205][867]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:690][874]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:690][874]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:829][874]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.57:829][874]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.58:471][883]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.58:471][883]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.58:503][883]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.58:503][883]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.58:701][883]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.58:702][883]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:137][890]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:137][890]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:293][890]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:293][890]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:916][900]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:916][900]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:961][900]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.40.59:961][900]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.41.00:143][900]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.41.00:143][900]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-21.41.28:162][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tetris' took 0.168
+[2018.04.06-21.41.28:177][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/piece] ([1] browsable assets)...
+[2018.04.06-21.41.28:299][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/piece.piece]
+[2018.04.06-21.41.28:299][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/piece]
+[2018.04.06-21.41.28:299][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/piece" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Blueprints/piece_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.04.06-21.41.28:554][ 40]LogSavePackage: Save=232.35ms
+[2018.04.06-21.41.28:554][ 40]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/piece_Auto20C8E7C524797EB567D74C1A621CF42F9.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Blueprints/piece_Auto2.uasset'
+[2018.04.06-21.41.28:555][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Blueprints/piece_Auto2.uasset
+[2018.04.06-21.41.28:555][ 40]LogFileHelpers: Auto-saving content packages took 0.389
+[2018.04.06-21.41.45:874][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.00.26:121][575]BlueprintLog: New page: Compile piece
+[2018.04.06-22.00.35:021][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.01.06:023][404]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-22.01.06:041][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.01.06:042][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-22.01.06:043][404]PIE: New page: PIE session: Tetris (06/04/2018 16:01:06)
+[2018.04.06-22.01.06:044][404]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tetris
+[2018.04.06-22.01.06:056][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011887s)
+[2018.04.06-22.01.06:057][404]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-22.01.06:060][404]LogPlayLevel: PIE: World Init took: (0.003350s)
+[2018.04.06-22.01.06:060][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tetris.Tetris to /Game/UEDPIE_0_Tetris.Tetris (0.016227s)
+[2018.04.06-22.01.06:101][404]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-22.01.06:116][404]LogInit: FAudioDevice initialized.
+[2018.04.06-22.01.06:146][404]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-22.01.06:149][404]LogWorld: Bringing World /Game/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-19.01.06
+[2018.04.06-22.01.06:149][404]LogWorld: Bringing up level for play took: 0.000965
+[2018.04.06-22.01.06:151][404]PIE: Play in editor start time for /Game/UEDPIE_0_Tetris 0,936
+[2018.04.06-22.01.06:151][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.01.10:493][598]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.01.10:494][598]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.01.24:600][246]LogBlueprintUserMessages: [piece_C_0] Floor
+[2018.04.06-22.01.28:077][406]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-22.01.28:077][406]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-22.01.42:168][ 52]LogBlueprintUserMessages: [piece_C_1] Floor
+[2018.04.06-22.01.45:807][218]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-22.01.45:807][218]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-22.01.49:950][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.01.50:020][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.01.58:523][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.01.58:688][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Tetris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.06-22.01.58:819][680]LogSavePackage: Save=104.06ms
+[2018.04.06-22.01.58:819][680]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Tetris2A8CDDA6480CE1E8115A9AAE63364EE1.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Tetris.umap'
+[2018.04.06-22.01.58:820][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Tetris.umap
+[2018.04.06-22.02.04:021][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.02.10:733][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.03.59:394][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.03.59:488][990]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-22.03.59:509][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.03.59:509][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-22.03.59:509][990]PIE: New page: PIE session: Tetris (06/04/2018 16:03:59)
+[2018.04.06-22.03.59:509][990]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tetris
+[2018.04.06-22.03.59:515][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005832s)
+[2018.04.06-22.03.59:518][990]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-22.03.59:519][990]LogPlayLevel: PIE: World Init took: (0.003406s)
+[2018.04.06-22.03.59:519][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tetris.Tetris to /Game/UEDPIE_0_Tetris.Tetris (0.009468s)
+[2018.04.06-22.03.59:560][990]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-22.03.59:576][990]LogInit: FAudioDevice initialized.
+[2018.04.06-22.03.59:606][990]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-22.03.59:607][990]LogWorld: Bringing World /Game/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-19.03.59
+[2018.04.06-22.03.59:608][990]LogWorld: Bringing up level for play took: 0.000746
+[2018.04.06-22.03.59:609][990]PIE: Play in editor start time for /Game/UEDPIE_0_Tetris 0,397
+[2018.04.06-22.03.59:609][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.04.07:374][351]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.04.07:374][351]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.04.14:820][699]LogBlueprintUserMessages: [piece_C_0] Floor
+[2018.04.06-22.04.18:627][877]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-22.04.18:628][877]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-22.04.24:638][152]LogBlueprintUserMessages: [piece_C_1] piece
+[2018.04.06-22.04.24:639][152]LogBlueprintUserMessages: [piece_C_0] piece1
+[2018.04.06-22.04.41:010][891]LogBlueprintUserMessages: [piece_C_1] DefaultPawn
+[2018.04.06-22.04.45:646][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.04.45:719][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.04.47:889][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.04.55:710][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.05.00:150][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.07.08:372][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.07.08:436][801]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-22.07.08:455][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.07.08:457][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-22.07.08:458][801]PIE: New page: PIE session: Tetris (06/04/2018 16:07:08)
+[2018.04.06-22.07.08:458][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tetris
+[2018.04.06-22.07.08:466][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007702s)
+[2018.04.06-22.07.08:468][801]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-22.07.08:469][801]LogPlayLevel: PIE: World Init took: (0.002687s)
+[2018.04.06-22.07.08:469][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tetris.Tetris to /Game/UEDPIE_0_Tetris.Tetris (0.010693s)
+[2018.04.06-22.07.08:510][801]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-22.07.08:527][801]LogInit: FAudioDevice initialized.
+[2018.04.06-22.07.08:559][801]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-22.07.08:560][801]LogWorld: Bringing World /Game/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-19.07.08
+[2018.04.06-22.07.08:561][801]LogWorld: Bringing up level for play took: 0.000750
+[2018.04.06-22.07.08:562][801]PIE: Play in editor start time for /Game/UEDPIE_0_Tetris -0,648
+[2018.04.06-22.07.08:563][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.07.13:760][ 36]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.07.13:761][ 36]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.07.18:813][269]LogBlueprintUserMessages: [piece_C_0] Floor
+[2018.04.06-22.07.20:646][353]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-22.07.20:646][353]LogBlueprintUserMessages: [piece_C_1] piece1
+[2018.04.06-22.07.25:667][583]LogBlueprintUserMessages: [piece_C_1] piece
+[2018.04.06-22.07.25:667][583]LogBlueprintUserMessages: [piece_C_0] piece1
+[2018.04.06-22.07.29:734][769]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-22.07.29:734][769]LogBlueprintUserMessages: [piece_C_2] piece2
+[2018.04.06-22.07.36:265][ 66]LogBlueprintUserMessages: [piece_C_2] piece
+[2018.04.06-22.07.36:265][ 66]LogBlueprintUserMessages: [piece_C_0] piece2
+[2018.04.06-22.07.39:399][208]LogBlueprintUserMessages: [piece_C_3] piece3
+[2018.04.06-22.07.39:399][208]LogBlueprintUserMessages: [piece_C_3] piece3
+[2018.04.06-22.07.40:592][262]LogBlueprintUserMessages: [piece_C_4] piece4
+[2018.04.06-22.07.40:592][262]LogBlueprintUserMessages: [piece_C_4] piece4
+[2018.04.06-22.07.40:592][262]LogBlueprintUserMessages: [piece_C_4] piece3
+[2018.04.06-22.07.40:592][262]LogBlueprintUserMessages: [piece_C_3] piece4
+[2018.04.06-22.07.42:456][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.07.42:506][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.07.49:057][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.07.51:513][623]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.06-22.07.51:594][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.07.55:778][743]Cmd: EDIT COPY
+[2018.04.06-22.07.56:909][773]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.06-22.07.57:288][782]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.06-22.07.57:378][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.07.59:179][829]Cmd: EDIT PASTE
+[2018.04.06-22.08.28:268][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.08.47:592][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.09.00:129][270]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.06-22.09.00:230][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.09.03:860][374]Cmd: EDIT PASTE
+[2018.04.06-22.09.08:380][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.09.15:703][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2018.04.06-22.09.20:218][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.06-22.09.21:263][770]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.06-22.09.22:388][802]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.04.06-22.09.28:216][969]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.04.06-22.09.28:301][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.09.31:089][ 46]Cmd: EDIT PASTE
+[2018.04.06-22.09.43:519][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.09.51:660][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.09.51:760][520]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-22.09.51:778][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.09.51:779][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.06-22.09.51:779][520]PIE: New page: PIE session: Tetris (06/04/2018 16:09:51)
+[2018.04.06-22.09.51:779][520]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tetris
+[2018.04.06-22.09.51:788][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008635s)
+[2018.04.06-22.09.51:789][520]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-22.09.51:791][520]LogPlayLevel: PIE: World Init took: (0.002691s)
+[2018.04.06-22.09.51:791][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tetris.Tetris to /Game/UEDPIE_0_Tetris.Tetris (0.011730s)
+[2018.04.06-22.09.51:838][520]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-22.09.51:855][520]LogInit: FAudioDevice initialized.
+[2018.04.06-22.09.51:890][520]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-22.09.51:892][520]LogWorld: Bringing World /Game/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-19.09.51
+[2018.04.06-22.09.51:892][520]LogWorld: Bringing up level for play took: 0.001063
+[2018.04.06-22.09.51:893][520]PIE: Play in editor start time for /Game/UEDPIE_0_Tetris 0,685
+[2018.04.06-22.09.51:893][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.09.54:450][635]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.09.54:450][635]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.10.04:640][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.10.04:695][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.10.16:137][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.10.25:788][628]Cmd: SELECT NONE
+[2018.04.06-22.10.26:398][635]Cmd: SELECT NONE
+[2018.04.06-22.10.44:441][170]LogMetaData: Removing '/Game/Level/Tetris.Tetris_C' ref from Metadata '/Game/Tetris.PackageMetaData'
+[2018.04.06-22.10.44:441][170]LogMetaData: Removing '/Game/Level/Tetris.SKEL_Tetris_C' ref from Metadata '/Game/Tetris.PackageMetaData'
+[2018.04.06-22.10.44:501][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.06-22.10.44:631][170]LogSavePackage: Save=109.53ms
+[2018.04.06-22.10.44:632][170]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Tetris550521B6437385DC0429139A290249A6.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap'
+[2018.04.06-22.10.44:633][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap
+[2018.04.06-22.10.44:640][170]LogFileHelpers: Saving map 'Tetris' took 0.183
+[2018.04.06-22.11.00:776][432]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.00:893][432]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.00:917][432]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.00:917][432]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.00:917][432]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.01:645][441]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.01:645][441]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.01:723][443]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.01:897][444]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.01:974][446]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.02:039][448]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.02:258][449]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.02:450][450]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.02:450][450]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.02:534][451]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.02:782][453]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.02:984][455]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.03:110][457]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.04:183][473]LogMaterial: Missing cached shader map for material MaterialYellow, compiling. 
+[2018.04.06-22.11.04:289][473]LogMaterial: Missing cached shader map for material MaterialYellow, compiling. 
+[2018.04.06-22.11.04:296][473]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.04:296][473]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.04:296][473]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.04:320][473]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_3, compiling. 
+[2018.04.06-22.11.04:516][473]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.06-22.11.04:516][473]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.06-22.11.04:516][473]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.04:516][473]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.04:528][473]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.04:528][473]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.04:542][473]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.04:770][475]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.04:822][476]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.04:953][478]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.05:073][479]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.05:327][481]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.05:327][481]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.05:443][482]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.05:710][484]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.05:884][486]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.05:884][486]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.06:088][487]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.06:135][488]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.06:400][491]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.04.06-22.11.06:400][491]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.04.06-22.11.06:401][491]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.06:401][491]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.19:799][739]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.19:815][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.19:822][739]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.19:822][739]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.19:822][739]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.19:824][739]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.19:862][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.20:069][741]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.06-22.11.20:134][742]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.06-22.11.20:178][743]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.20:430][745]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.20:430][745]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.20:547][747]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.20:696][748]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.20:697][748]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.20:772][749]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.20:968][751]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.21:162][751]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.21:162][751]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.21:278][753]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.21:495][754]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.21:656][755]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.21:733][756]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.21:899][757]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.21:997][758]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.22:194][759]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.06-22.11.22:194][759]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.06-22.11.22:194][759]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.22:194][759]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.33:639][967]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.33:662][967]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.33:662][967]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.33:662][967]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.33:669][967]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.33:922][969]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.34:005][971]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.34:079][972]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.34:245][973]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.34:336][975]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.34:396][976]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.34:553][977]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.34:803][979]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.34:867][980]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.35:019][982]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.35:244][983]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.35:457][986]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.35:541][987]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.35:558][987]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.35:581][987]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.35:713][988]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.06-22.11.35:853][990]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.06-22.11.36:089][993]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.36:104][993]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.36:126][993]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.36:257][995]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.06-22.11.36:290][996]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.06-22.11.36:436][997]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.36:569][998]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.36:605][999]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.36:734][  0]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.36:750][  0]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.36:775][  0]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.36:935][  3]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.06-22.11.37:018][  5]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.06-22.11.37:285][  8]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.37:444][ 10]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.37:542][ 12]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.37:680][ 13]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.37:756][ 14]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.37:819][ 15]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.37:942][ 16]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.38:135][ 19]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.38:399][ 21]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.38:526][ 23]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.38:658][ 24]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.38:869][ 25]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.38:963][ 26]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.39:039][ 27]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.39:253][ 28]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.39:326][ 29]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.39:668][ 34]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.04.06-22.11.39:668][ 34]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.04.06-22.11.39:668][ 34]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.39:668][ 34]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.47:106][167]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.47:122][167]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.47:122][167]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.47:122][167]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.47:124][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.47:292][168]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.47:376][170]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.47:433][171]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.47:648][173]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.47:706][174]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.47:759][175]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.47:907][176]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.48:107][177]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.48:184][178]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.48:258][179]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.48:467][180]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.48:654][182]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.48:761][183]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.48:947][185]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.49:127][187]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.49:336][190]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.06-22.11.49:336][190]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.06-22.11.49:336][190]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.49:336][190]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.50:586][211]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.50:600][211]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.50:613][211]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.06-22.11.50:613][211]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.06-22.11.50:613][211]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.50:778][212]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.50:778][212]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.50:913][215]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.51:071][216]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.51:141][217]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.51:197][218]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.51:319][219]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.51:561][220]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.51:653][222]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.51:798][224]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.52:005][225]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.52:128][226]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.52:273][228]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.52:524][231]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.52:623][232]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.52:786][233]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.06-22.11.52:786][233]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.06-22.11.52:786][233]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.52:786][233]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.53:836][252]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.53:866][252]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.53:866][252]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.53:866][252]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.53:872][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.54:118][254]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.54:159][255]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.54:334][256]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.54:334][256]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.54:400][257]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.54:464][258]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.54:656][260]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.54:907][262]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.54:952][263]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.11.55:097][265]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.11.55:408][268]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.11.55:595][270]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.11.55:676][271]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.11.55:845][272]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.11.55:934][273]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.11.56:103][275]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.06-22.11.56:104][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.06-22.11.56:104][275]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.11.56:104][275]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.11.58:517][318]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.11.58:540][318]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.11.58:540][318]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.58:540][318]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.58:547][318]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.04.06-22.11.58:578][318]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.06-22.11.58:750][319]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.11.58:750][319]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.11.58:750][319]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.06-22.11.59:007][322]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.11.59:007][322]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.06-22.11.59:073][323]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.06-22.11.59:263][325]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.06-22.11.59:555][328]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.06-22.11.59:806][333]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.06-22.12.00:057][334]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.06-22.12.00:057][334]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.06-22.12.00:169][335]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.06-22.12.00:270][336]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.06-22.12.00:455][338]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.12.00:578][339]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.06-22.12.00:730][340]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.06-22.12.00:730][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.06-22.12.00:730][340]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.12.00:730][340]MaterialEditorStats: Texture samplers: 2/16
+[2018.04.06-22.12.01:150][349]LogMaterialEditor: Saving and Compiling material Mt_Wall
+[2018.04.06-22.12.01:730][349]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.12.01:752][349]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.06-22.12.01:752][349]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.06-22.12.01:752][349]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.06-22.12.01:769][349]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.12.01:786][349]LogMaterial: Missing cached shader map for material Mt_Wall, compiling. 
+[2018.04.06-22.12.01:821][349]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mt_Wall, compiling. 
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.06-22.12.02:870][349]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.06-22.12.02:872][349]TextureStreamingBuild: Display: Compiling optional shaders took 1.055 seconds.
+[2018.04.06-22.12.04:697][349]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.06-22.12.04:769][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mt_Wall" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Materials/Mt_Wall.uasset" SILENT=true
+[2018.04.06-22.12.04:779][349]LogSavePackage: Save=9.01ms
+[2018.04.06-22.12.04:779][349]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Mt_Wall1F54181E410480369B3B4B96E114B7D3.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Materials/Mt_Wall.uasset'
+[2018.04.06-22.12.04:780][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Materials/Mt_Wall.uasset
+[2018.04.06-22.12.04:785][349]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.04.06-22.12.04:785][349]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.04.06-22.12.04:785][349]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.06-22.12.04:785][349]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.06-22.12.23:938][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.12.24:705][572]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.06-22.12.24:737][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Level/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.12.24:737][572]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.06-22.12.24:784][572]LogPlayLevel: [PlayLevel] Compiling piece before play...
+[2018.04.06-22.12.25:148][572]LogPlayLevel: PlayLevel: Blueprint regeneration took 411 ms (1 blueprints)
+[2018.04.06-22.12.25:148][572]PIE: New page: PIE session: Tetris (06/04/2018 16:12:25)
+[2018.04.06-22.12.25:148][572]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Tetris
+[2018.04.06-22.12.25:151][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002334s)
+[2018.04.06-22.12.25:152][572]LogAIModule: Creating AISystem for world Tetris
+[2018.04.06-22.12.25:152][572]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2018.04.06-22.12.25:152][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Tetris.Tetris to /Game/Level/UEDPIE_0_Tetris.Tetris (0.003740s)
+[2018.04.06-22.12.25:173][572]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.06-22.12.25:188][572]LogInit: FAudioDevice initialized.
+[2018.04.06-22.12.25:221][572]LogLoad: Game class is 'GameModeBase'
+[2018.04.06-22.12.25:222][572]LogWorld: Bringing World /Game/Level/UEDPIE_0_Tetris.Tetris up for play (max tick rate 0) at 2018.04.06-19.12.25
+[2018.04.06-22.12.25:222][572]LogWorld: Bringing up level for play took: 0.000761
+[2018.04.06-22.12.25:223][572]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Tetris 0,017
+[2018.04.06-22.12.25:223][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Level/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.12.30:442][799]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.12.30:442][799]LogBlueprintUserMessages: [piece_C_0] piece
+[2018.04.06-22.12.34:111][968]LogBlueprintUserMessages: [piece_C_0] Floor2
+[2018.04.06-22.12.42:577][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Level/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.12.42:624][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Tetris.Tetris:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris' with GeneratedClass '/Game/Level/Tetris.Tetris_C' with ClassGeneratedBy '/Game/Level/Tetris.Tetris:PersistentLevel.Tetris'
+[2018.04.06-22.12.54:011][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.21.01:824][839]BlueprintLog: New page: Compile piece
+[2018.04.06-22.21.02:628][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Level/Tetris_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.06-22.21.02:740][844]LogSavePackage: Save=108.78ms
+[2018.04.06-22.21.02:740][844]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Tetris_Auto3F2A02AFA4FFB777D540EF58821A7C482.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Level/Tetris_Auto3.umap'
+[2018.04.06-22.21.02:740][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Level/Tetris_Auto3.umap
+[2018.04.06-22.21.02:742][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Tetris' took 0.136
+[2018.04.06-22.21.02:742][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2018.04.06-22.21.02:745][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/piece] ([1] browsable assets)...
+[2018.04.06-22.21.02:782][844]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/piece.piece]
+[2018.04.06-22.21.02:782][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/piece]
+[2018.04.06-22.21.02:783][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/piece" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Blueprints/piece_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.06-22.21.02:840][844]LogSavePackage: Save=55.23ms
+[2018.04.06-22.21.02:840][844]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/piece_Auto3E6F6A4AE48CC9F4D15536FBF22DF2676.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Blueprints/piece_Auto3.uasset'
+[2018.04.06-22.21.02:841][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Autosaves/Game/Blueprints/piece_Auto3.uasset
+[2018.04.06-22.21.02:841][844]LogFileHelpers: Auto-saving content packages took 0.097
+[2018.04.06-22.21.07:381][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/piece" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Blueprints/piece.uasset" SILENT=true
+[2018.04.06-22.21.07:432][927]LogSavePackage: Save=47.75ms
+[2018.04.06-22.21.07:432][927]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/pieceB4D2E74A4381954B48B437863D84C55F.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Blueprints/piece.uasset'
+[2018.04.06-22.21.07:433][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Blueprints/piece.uasset
+[2018.04.06-22.21.08:267][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.06-22.21.08:396][940]LogSavePackage: Save=107.63ms
+[2018.04.06-22.21.08:396][940]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Tetris029581EC499834B5D450AEBC28902049.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap'
+[2018.04.06-22.21.08:397][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap
+[2018.04.06-22.21.08:403][940]LogFileHelpers: Saving map 'Tetris' took 0.178
+[2018.04.06-22.21.09:370][968]LogSlate: Window 'Tetris - Level Blueprint Editor' being destroyed
+[2018.04.06-22.21.09:408][968]LogSlate: Window 'Tetris - Level Blueprint Editor' being destroyed
+[2018.04.06-22.21.11:020][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.06-22.21.11:148][ 13]LogSavePackage: Save=101.84ms
+[2018.04.06-22.21.11:148][ 13]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/Tetris745C3D37483454E6C24780A07920EC36.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap'
+[2018.04.06-22.21.11:149][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap
+[2018.04.06-22.23.39:507][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.23.41:202][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.24.26:559][971]LogSlate: Window 'Tetris* - Level Blueprint Editor' being destroyed
+[2018.04.06-22.24.26:592][971]LogSlate: Window 'Tetris* - Level Blueprint Editor' being destroyed
+[2018.04.06-22.24.28:938][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.06-22.24.31:126][ 49]LogSlate: Window 'Save Content' being destroyed
+[2018.04.06-22.24.31:133][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.06-22.24.31:180][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Tetris" FILE="../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.06-22.24.31:302][ 49]LogSavePackage: Save=104.49ms
+[2018.04.06-22.24.31:302][ 49]LogSavePackage: Moving '../../../../../../Ricardo Ken/Treino-Interlab2/Saved/TetrisCCCCDF7D4935E0B9D406E9A46538B281.tmp' to '../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap'
+[2018.04.06-22.24.31:304][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Ricardo Ken/Treino-Interlab2/Content/Level/Tetris.umap
+[2018.04.06-22.24.31:311][ 49]LogFileHelpers: Saving map 'Tetris' took 0.172
+[2018.04.06-22.24.31:334][ 49]LogSlate: Window 'UE4_Tetris_Start_Model - Unreal Editor' being destroyed
+[2018.04.06-22.24.31:530][ 50]Cmd: QUIT_EDITOR
+[2018.04.06-22.24.32:027][ 50]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.06-22.24.32:035][ 50]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.06-22.24.32:035][ 50]LogExit: Preparing to exit.
+[2018.04.06-22.24.32:656][ 50]LogDirectoryWatcher: A directory notification failed for 'C:/Ricardo Ken/Treino-Interlab2/Content/', and we were unable to create a new request.
+[2018.04.06-22.24.32:738][ 50]LogExit: Editor shut down
+[2018.04.06-22.24.32:766][ 50]LogExit: Transaction tracking system shut down
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../../../../../Ricardo Ken/Treino-Interlab2/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.06-22.24.33:032][ 50]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.06-22.24.33:175][ 50]LogExit: Object subsystem successfully closed.
+[2018.04.06-22.24.33:202][ 50]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.06-22.24.33:207][ 50]LogD3D11RHI: Shutdown
+[2018.04.06-22.24.33:208][ 50]LogD3D11RHI: CleanupD3DDevice
+[2018.04.06-22.24.33:239][ 50]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (586)
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (584)
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module BlueprintGraph (582)
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (578)
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module SceneOutliner (576)
+[2018.04.06-22.24.33:257][ 50]LogModuleManager: Shutting down and abandoning module AddContentDialog (574)
+[2018.04.06-22.24.33:257][ 50]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.06-22.24.33:264][ 50]LogModuleManager: Shutting down and abandoning module WidgetCarousel (573)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module EditorWidgets (570)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module CollectionManager (568)
+[2018.04.06-22.24.33:265][ 50]LogDirectoryWatcher: A directory notification for 'C:/Ricardo Ken/Treino-Interlab2/Content/Collections/' was aborted.
+[2018.04.06-22.24.33:265][ 50]LogDirectoryWatcher: A directory notification for 'C:/Ricardo Ken/Treino-Interlab2/Content/Developers/adm3/Collections/' was aborted.
+[2018.04.06-22.24.33:265][ 50]LogDirectoryWatcher: A directory notification for 'C:/Ricardo Ken/Treino-Interlab2/Saved/Collections/' was aborted.
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module StatsViewer (566)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module FoliageEdit (564)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module LandscapeEditor (562)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module MeshPaintMode (560)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (558)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module ActorPickerMode (556)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module GeometryMode (554)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module TextureAlignMode (552)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module BspMode (550)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (548)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module HardwareSurvey (546)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (544)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module AutomationWorker (542)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (540)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module SequenceRecorder (539)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (536)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (534)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module PlacementMode (533)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2018.04.06-22.24.33:265][ 50]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (528)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (526)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (524)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (522)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (520)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (518)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (516)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (514)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (512)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (510)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module CharacterAI (508)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module SmartSnapping (506)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module SessionServices (504)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module ViewportSnapping (502)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module ViewportInteraction (500)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module ClothPainter (498)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (497)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module LogVisualizer (494)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module IntroTutorials (492)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (491)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (488)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (486)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (484)
+[2018.04.06-22.24.33:266][ 50]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (483)
+[2018.04.06-22.24.33:809][ 50]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (480)
+[2018.04.06-22.24.33:809][ 50]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (478)
+[2018.04.06-22.24.33:809][ 50]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (476)
+[2018.04.06-22.24.33:809][ 50]LogModuleManager: Shutting down and abandoning module InputBindingEditor (474)
+[2018.04.06-22.24.33:809][ 50]LogModuleManager: Shutting down and abandoning module MergeActors (472)
+[2018.04.06-22.24.33:809][ 50]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (470)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module LocalizationService (469)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module HardwareTargeting (466)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (464)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module UndoHistory (462)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module XmlParser (460)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module Blutility (458)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (456)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (455)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (452)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module SettingsEditor (450)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module ProjectLauncher (448)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module SessionFrontend (446)
+[2018.04.06-22.24.33:810][ 50]LogModuleManager: Shutting down and abandoning module ProfilerClient (444)
+[2018.04.06-22.24.33:811][ 50]LogModuleManager: Shutting down and abandoning module DeviceManager (442)
+[2018.04.06-22.24.33:812][ 50]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (441)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module AutomationController (438)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module AutomationWindow (436)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module Layers (434)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (432)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module DetailCustomizations (430)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module PackagesDialog (428)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module Persona (426)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (425)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module AnimGraph (423)
+[2018.04.06-22.24.33:875][ 50]LogModuleManager: Shutting down and abandoning module Kismet (420)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module GraphEditor (418)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module ClassViewer (416)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module Toolbox (414)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module ModuleUI (412)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneTools (410)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module OutputLog (408)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module GammaUI (406)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module Documentation (404)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (402)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module MovieScene (400)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (398)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module LauncherPlatform (396)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module AnalyticsET (394)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module PortalServices (392)
+[2018.04.06-22.24.33:883][ 50]LogModuleManager: Shutting down and abandoning module PortalRpc (390)
+[2018.04.06-22.24.33:884][ 50]LogModuleManager: Shutting down and abandoning module MessagingRpc (388)
+[2018.04.06-22.24.33:884][ 50]LogModuleManager: Shutting down and abandoning module AIModule (386)
+[2018.04.06-22.24.33:884][ 50]LogModuleManager: Shutting down and abandoning module GameplayDebugger (385)
+[2018.04.06-22.24.33:884][ 50]LogModuleManager: Shutting down and abandoning module AITestSuite (383)
+[2018.04.06-22.24.33:884][ 50]LogModuleManager: Shutting down and abandoning module DesktopPlatform (380)
+[2018.04.06-22.24.33:884][ 50]LogModuleManager: Shutting down and abandoning module ProfilerService (378)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module TaskGraph (376)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module SteamVRController (374)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (372)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (370)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module OculusInput (368)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (366)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (364)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module CableComponent (362)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module AudioCapture (360)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (358)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module AndroidPermission (356)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (352)
+[2018.04.06-22.24.33:942][ 50]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (350)
+[2018.04.06-22.24.33:943][ 50]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (348)
+[2018.04.06-22.24.33:943][ 50]LogModuleManager: Shutting down and abandoning module MediaCompositing (346)
+[2018.04.06-22.24.33:943][ 50]LogModuleManager: Shutting down and abandoning module LinearTimecode (344)
+[2018.04.06-22.24.33:943][ 50]LogModuleManager: Shutting down and abandoning module ImgMedia (342)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module HTML5Networking (340)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module AlembicImporter (338)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module AlembicLibrary (337)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module GeometryCache (336)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (335)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module DatasmithContent (330)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (328)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module PluginBrowser (326)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (324)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2018.04.06-22.24.33:947][ 50]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2018.04.06-22.24.33:948][ 50]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (282)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (280)
+[2018.04.06-22.24.33:949][ 50]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (278)
+[2018.04.06-22.24.33:950][ 50]LogModuleManager: Shutting down and abandoning module ApexDestruction (276)
+[2018.04.06-22.24.33:950][ 50]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.06-22.24.33:950][ 50]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.06-22.24.34:054][ 50]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.06-22.24.34:156][ 50]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.06-22.24.34:157][ 50]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.06-22.24.34:157][ 50]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.06-22.24.34:157][ 50]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.06-22.24.34:157][ 50]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.06-22.24.34:157][ 50]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.06-22.24.34:158][ 50]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.06-22.24.34:158][ 50]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.06-22.24.34:158][ 50]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.06-22.24.34:158][ 50]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.06-22.24.34:159][ 50]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.06-22.24.34:160][ 50]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.06-22.24.34:160][ 50]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.06-22.24.34:160][ 50]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.06-22.24.34:160][ 50]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.06-22.24.34:999][ 50]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.06-22.24.34:999][ 50]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.06-22.24.34:999][ 50]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.06-22.24.34:999][ 50]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.04.06-22.24.34:999][ 50]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.04.06-22.24.34:999][ 50]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.04.06-22.24.35:000][ 50]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.04.06-22.24.35:000][ 50]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.06-22.24.35:007][ 50]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.06-22.24.35:009][ 50]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.06-22.24.35:019][ 50]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.06-22.24.35:089][ 50]LogDerivedDataCache: Shutdown
+[2018.04.06-22.24.35:089][ 50]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.06-22.24.35:089][ 50]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.06-22.24.35:089][ 50]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.06-22.24.35:090][ 50]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.06-22.24.35:091][ 50]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.06-22.24.35:091][ 50]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.06-22.24.35:091][ 50]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B96441816-4B58-6B8E-4C32-DF9DD21B702F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=0f1cb8914d279dc50896518ec320666c%7C9d0fae49ccf44e4a90e9545d74385799%7Cb2802b11-6531-4fb8-a7bb-0b6c8add3e4c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.06-22.24.35:106][ 50]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.06-22.24.35:107][ 50]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.06-22.24.35:107][ 50]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.06-22.24.35:108][ 50]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.06-22.24.35:108][ 50]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.06-22.24.35:108][ 50]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.06-22.24.35:108][ 50]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.06-22.24.35:108][ 50]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.06-22.24.35:111][ 50]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.06-22.24.35:111][ 50]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.06-22.24.35:111][ 50]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.06-22.24.35:111][ 50]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.06-22.24.35:111][ 50]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.06-22.24.35:111][ 50]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.06-22.24.35:112][ 50]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.06-22.24.35:112][ 50]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.06-22.24.35:112][ 50]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.06-22.24.35:112][ 50]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.06-22.24.35:112][ 50]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.06-22.24.35:116][ 50]LogExit: Exiting.
+[2018.04.06-22.24.35:124][ 50]Log file closed, 04/06/18 19:24:35
